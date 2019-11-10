@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CCCfor_BUROBO2019", "CCCfor_BUROBO2019\CCCfor_BUROBO2019.njsproj", "{744E1406-4306-4AB0-BF60-88283B9AA488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744E1406-4306-4AB0-BF60-88283B9AA488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744E1406-4306-4AB0-BF60-88283B9AA488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744E1406-4306-4AB0-BF60-88283B9AA488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744E1406-4306-4AB0-BF60-88283B9AA488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95212EA7-AE5F-4E5F-AE60-DE44F9743083}
+	EndGlobalSection
+EndGlobal

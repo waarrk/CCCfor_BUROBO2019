@@ -1,0 +1,23 @@
+{
+  "name": "cccfor_burobo2019_v2",
+  "version": "0.0.0",
+  "description": "CCCfor_BUROBO2019_v2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "~4.16.4",
+    "path": "~0.12.7",
+    "react": "~16.6.0",
+    "react-dom": "~16.6.0",
+    "serialport": "^8.0.5",
+    "ts-loader": "~5.3.0",
+    "typescript": "~3.1.5",
+    "webpack": "~4.23.1",
+    "webpack-cli": "~3.1.2"
+  },
+  "scripts": {
+    "build": "webpack-cli app.tsx --config webpack-config.js"
+  }
+}
