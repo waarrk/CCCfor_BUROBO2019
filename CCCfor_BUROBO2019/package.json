@@ -1,7 +1,7 @@
 {
-  "name": "cccfor_burobo2019_v2",
+  "name": "cccfor_burobo2019",
   "version": "0.0.0",
-  "description": "CCCfor_BUROBO2019_v2",
+  "description": "CCCfor_BUROBO2019",
   "main": "server.js",
   "author": {
     "name": ""
