@@ -1,6 +1,7 @@
 'use strict';//厳格モード使用
-declare var require: any
 
+declare var require: any
+//Reactモジュール使用
 var React = require('react');
 var ReactDOM = require('react-dom');
 
@@ -33,6 +34,7 @@ class Title extends React.Component {
         );
     }
 }
+
 //FEP描画DOM
 function FEP() {
     return (
